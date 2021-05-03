@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Himanshu Agrawal</h1>
 <h3 align="center">A CS graduate guy trying to figure out new things</h3>
 
+***I am currently a student following my passion for Competitive Programming & web development especially 'web designing' and I'm eager to learn new technologies***
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harry6003&label=Profile%20views&color=0e75b6&style=flat" alt="harry6003" /> </p>
 
 - 🔭 I’m currently working on **Frontend Development (React)**
