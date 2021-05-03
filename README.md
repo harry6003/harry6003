@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Himanshu Agrawal</h1>
-<h3 align="center">A CS graduate guy trying to figure out new things</h3>
+<h3 align="center">A CS undergraduate guy trying to figure out new things</h3>
 
 <img align="right" width="400" margin-top="500" src="https://cdn.dribbble.com/users/788099/screenshots/8559570/media/b21c621f5f627c462763acd55c2a2319.png">
 
