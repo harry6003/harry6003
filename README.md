@@ -15,7 +15,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/harry6003](https://github.com/harry6003)
 
-- 📝 I regularly write articles on [https://www.linkedin.com/in/himanshu-agrawal01234/](https://www.linkedin.com/in/himanshu-agrawal01234/)
+- 📝 I regularly write articles on [https://www.linkedin.com/in/agrawal-himanshu-cpp/](https://www.linkedin.com/in/agrawal-himanshu-cpp/)
 
 - 💬 Ask me about **Competitive Programming**
 
