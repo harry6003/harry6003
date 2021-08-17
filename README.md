@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Himanshu Agrawal</h1>
+## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm [Himanshu!](https://github.com/harry6003) 
 <h3 align="center">A CS undergraduate guy trying to figure out new things</h3>
 
 <img align="right" width="400" margin-top="500" src="https://raw.githubusercontent.com/pratikdaigavane/pratikdaigavane/main/code.gif">
