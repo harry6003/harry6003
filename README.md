@@ -27,12 +27,21 @@
 
 ### Connect with me:
 
+ LinkedIn : [@Himanshu Agrawal](https://www.linkedin.com/in/himanshu-agrawal01234/) <br/>
+ Twitter : [@ aatmnirbhar_cpp](https://twitter.com/aatmnirbhar_cpp)  <br/>
+ LeetCode :- [@harry_6003](https://leetcode.com/harry_6003/)    <br/>
+ CodeChef : [@harrry_60](https://www.codechef.com/users/harrry_60) <br/>
+ CodeForces : [@harry_6003](https://codeforces.com/profile/harry_6003)  <br/>
 
+
+
+
+<!-- 
 [<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/aatmnirbhar_cpp)
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/himanshu-agrawal01234/)
 [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/aatmnirbhar.cpp/)
 <br/>
-<br/>
+<br/> -->
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> </p>
@@ -41,9 +50,5 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=harry6003&theme=dark" alt="harry6003" /></p>
 
-Connect with me on :- 
- Twitter : [@ aatmnirbhar_cpp](https://twitter.com/aatmnirbhar_cpp)
-        CodeChef : [@harrry_60](https://www.codechef.com/users/harrry_60)
-        CodeForces : [@harry_6003](https://codeforces.com/profile/harry_6003)
-        LeetCode :- [@harry_6003](https://leetcode.com/harry_6003/)   
-        LinkedIn : [@Himanshu Agrawal](https://www.linkedin.com/in/himanshu-agrawal01234/)
+
+ 
